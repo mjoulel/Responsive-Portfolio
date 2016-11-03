@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	
+	<title>Marie's Grid Layout</title>
+	<!-- Add a CSS Reference Here! -->
+	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+	<link rel="stylesheet" type="text/css" href="css/style-marie.css">
+</head>
+
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+  	<div class="row">
+    	<!-- <div class="navbar-header">Marie -->
+    		<div class="col-md-3">
+          <a href="http://www.linkedin.com/in/marielaborde"target="_blank">About</a>
+        </div>
+    		<div class="col-md-3">
+          <a href="resume.html"target="_blank">Portifolio</a>
+        </div>
+    		<div class="col-md-3">Contact
+          <a href="#">joulelm@gmail.com</a>
+        </div>
+      	<a class="navbar-brand" href="#">
+        <!-- <img alt="Brand" src="..."> -->
+      	</a>
+    	</div>
+  	</div>
+  </div>
+</nav>
+
+<nav class="navbar navbar-default">
+<div class="navbar-header"><strong>About Me</strong></div>
+<div class="row">
+	<div class="col-xs-3">
+		<div class="panel panel-default">
+  		<div class="panel-heading">Panel</div>
+  		<div class="panel-body">Panel content</div>
+  	</div>
+ </nav>
+     
+</div>
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    </div>
+
+<body class="container">
+ 
+	<div class="row">
+		<div class="col-md-2">
+			<img src="http://placeimg.com/300/300/animals" width="100" height="100">
+		</div>
+		<div class="col-md-8">
+			<p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+			</p>
+		</div>
+	<div>
+</body>
+</html>
